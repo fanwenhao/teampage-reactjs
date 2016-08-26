@@ -1,6 +1,7 @@
 # teampage-reactjs
 
-## to start:
+to start:
+
   $ npm install
   $ npm run webpack
   $ npm start
