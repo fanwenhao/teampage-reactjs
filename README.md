@@ -2,6 +2,6 @@
 
 to start:
 
-  $ npm install
-  $ npm run webpack
-  $ npm start
+    $ npm install
+    $ npm run webpack
+    $ npm start
